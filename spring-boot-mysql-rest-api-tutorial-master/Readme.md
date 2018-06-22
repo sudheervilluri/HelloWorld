@@ -30,7 +30,7 @@ create database notes_app
 + change `spring.datasource.username` and `spring.datasource.password` as per your mysql installation
 
 **4. Build and run the app using maven**
-
+sdsad asd asd asd asd 
 ```bash
 mvn package
 java -jar target/easy-notes-1.0.0.jar
