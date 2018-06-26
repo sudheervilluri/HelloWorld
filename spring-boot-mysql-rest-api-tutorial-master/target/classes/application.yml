@@ -4,6 +4,7 @@ spring :
     url : jdbc:mysql://localhost:3306/thigbilling?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&useSSL=false
     username : root
     password :
+#    jndi-name: jdbc/mysql
   jpa:
     properties:
       hibernate : 
