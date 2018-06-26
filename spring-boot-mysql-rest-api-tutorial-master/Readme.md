@@ -1,4 +1,4 @@
-# Spring Boot, MySQL, JPA sudheer3 , Hibernate Rest API Tutorial
+# Spring Boot, MySQL, JPA sudheer4 , Hibernate Rest API Tutorial
 
 Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
 
